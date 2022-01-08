@@ -1,0 +1,7 @@
+.navbar .router-link-exact-active{
+    border-bottom: 3px solid #ffcb01 !important;
+}
+
+.btn-primary{
+    border-radius:12px !important;
+}
